@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: auth
+    name: auth-service
   
   datasource:
     #Cambien aqui por su BD
